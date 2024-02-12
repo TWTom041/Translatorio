@@ -5,6 +5,6 @@ The automated Chinese subtitles finder. Searching from shooter、xunlei、arrst�
 This project is inspired by [ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder).
 
 ## Installation
-```python3
+```bash
 python main.py
 ```
