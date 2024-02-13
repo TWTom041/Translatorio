@@ -1,10 +1,7 @@
-# chsubio-fetcher
-The automated Chinese subtitles finder. Searching from shooter、xunlei、arrst、a4k、SubtitleBest, works with Stremio.
+#  gptchsubio-translator
+The automatic Chinese subtitles translator working with Stremio, powered by ChatGPT.
 
-## Foreword
-This project is inspired by [ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder).
-
-## Installation
+## How to Use
 ```bash
 python main.py
 ```
