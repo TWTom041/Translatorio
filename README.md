@@ -1,5 +1,5 @@
-#  gptchsubio-translator
-The automatic Chinese subtitles translator working with Stremio, powered by ChatGPT.
+#  Translatorio
+The automatic subtitles translator working with Stremio, powered by Google Translate.
 
 ## How to Use
 ```bash
